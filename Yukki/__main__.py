@@ -245,11 +245,11 @@ home_text_pm = f"""✨ **Hello, Selamat Datang!**
 🤖{BOT_NAME} **Adalah Bot musik telegram untuk memutar musik+video di obrolan suara Telegram**! Contoh :
 
 ╭┉┉┅┅┄┄┄┄•◦ೋ•◦❥•◦ೋ
-⧱ Play music.
-⧱ Play video.
-⧱ Download song.
-⧱ Download video.
-⧱ Search YT Link with inline.
+⧱ Musiqi çalın.
+⧱ Videolar oynatın.
+⧱ Mahnı endirin.
+⧱ Video endirin.
+⧱ Daxili ilə YOUTUBE Linkini axtarın.
  •◦ೋ•◦❥•◦ೋ•┈┄┄┄┄┅┅┉╯
 
 
